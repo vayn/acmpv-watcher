@@ -24,7 +24,7 @@ __[acmpv](https://github.com/Vayn/acmpv) + watcher__
 
 1、复制 Acfun, Bilibli 或其他视频网站的视频网址
 
-2、拖拽视频链接至 acmpw watcher 菜单栏图标
+2、拖拽视频链接至 acmpv watcher 菜单栏图标
 
 以上方式可使 acmpv watcher 自动调用 acmpv 播放视频
 
