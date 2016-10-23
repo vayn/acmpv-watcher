@@ -1,4 +1,4 @@
-# acmpv watcher
+# AcmpvWatcher
 
 __[acmpv](https://github.com/Vayn/acmpv) + watcher__
 
@@ -12,11 +12,11 @@ __[acmpv](https://github.com/Vayn/acmpv) + watcher__
 
 ### 安装方法
 
-1) 下载 acmpv watcher 的 DMG 安装包；
+1) 下载 AcmpvWatcher 的 dmg 安装包；
 
-2) 打开安装包，将 acmpv 应用拖入 `/Applications` 目录即可。
+2) 打开安装包，将 AcmpvWatcher 应用拖入 `/Applications` 目录即可。
 
-运行后在菜单栏出现一个小星星就是 __acmpv watcher__
+运行后在菜单栏出现一个小星星就是 __AcmpvWatcher__
 
 ![screenshot](screenshot.gif)
 
@@ -24,9 +24,9 @@ __[acmpv](https://github.com/Vayn/acmpv) + watcher__
 
 1、复制 Acfun, Bilibli 或其他视频网站的视频网址
 
-2、拖拽视频链接至 acmpv watcher 菜单栏图标
+2、拖拽视频链接至 AcmpvWatcher 菜单栏图标
 
-以上方式可使 acmpv watcher 自动调用 acmpv 播放视频
+以上方式可使 AcmpvWatcher 自动调用 acmpv 播放视频
 
 ### 全局热键
 
