@@ -37,4 +37,6 @@ __[acmpv](https://github.com/Vayn/acmpv) + watcher__
 1. 受 [You-Get](https://github.com/soimort/you-get) 本身所限，只能播放 Bilibili 的普通视频，不能播放番剧
 
 
+### Changelog
 
+10.24.2016 v1.0.5: 加入自动更新功能，修复拖拽导致启动两次 mpv 情况。
